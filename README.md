@@ -11,6 +11,6 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[* **CF 1855B**](https://codeforces.com/problemset/problem/1855/B)|khalid10|
 
 ## Tree Algorithms
-|Problem source| Solved by|
-|-|-|
-|[CSES Subordinates](https://cses.fi/problemset/task/1674)|khalid10|
+|Problem source| Tag |Solved by|
+|-|-|-|
+|[CSES Subordinates](https://cses.fi/problemset/task/1674)|DP on tree|khalid10|
