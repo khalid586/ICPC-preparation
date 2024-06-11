@@ -1,4 +1,4 @@
-# Warm up problems
+## Warm up problems
 These problems are taken from [TLE eliminators cp sheet](https://www.tle-eliminators.com/cp-sheet)
 |Problem source| Solved by|
 |-|-|
@@ -9,3 +9,8 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[CF 1913B](https://codeforces.com/problemset/problem/1913/B)|khalid10|
 |[CF 1883C](https://codeforces.com/contest/1883/problem/C)   |khalid10|
 |[* **CF 1855B**](https://codeforces.com/problemset/problem/1855/B)|khalid10|
+
+## Tree Algorithms
+|Problem source| Solved by|
+|-|-|
+|[CSES Subordinates](https://cses.fi/problemset/task/1674)|khalid10|
