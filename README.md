@@ -8,11 +8,16 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[CF 1875A](https://codeforces.com/problemset/problem/1875/A)|khalid10|
 |[CF 1913B](https://codeforces.com/problemset/problem/1913/B)|khalid10|
 |[CF 1883C](https://codeforces.com/contest/1883/problem/C)   |khalid10|
-|[* **CF 1855B**](https://codeforces.com/problemset/problem/1855/B)|khalid10|nnn
+|[* **CF 1855B**](https://codeforces.com/problemset/problem/1855/B)|khalid10|
+
+## Two pointers
+|Problem source| Solved by|Revisit|
+|-|-|-|
+|[CF 1265](https://codeforces.com/contest/1265/problem/B)|khalid10|🔴Pending|
 
 ## Tree Algorithms
 
-| Problem source | Tag | Solved by | Recheck |
+| Problem source | Tag | Solved by | Revisit |
 | --- | --- | --- | --- |
 |[CSES Subordinates](https://cses.fi/problemset/task/1674) | DP on tree | khalid10 | 🔴Pending |
 
