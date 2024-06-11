@@ -13,4 +13,5 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 ## Tree Algorithms
 | Problem source | Tag | Solved by | Recheck |
 | --- | --- | --- | --- |
-| [CSES Subordinates](https://cses.fi/problemset/task/1674) | DP on tree | khalid10 | <span style="color: red;">pending</span>|
+| [CSES Subordinates](https://cses.fi/problemset/task/1674) | DP on tree | khalid10 | <font color="red">pending</font> |
+
