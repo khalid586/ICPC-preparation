@@ -22,9 +22,8 @@ void FastIO()
 
 const int N = 1e6+7;
 
-bool cmp(int a,int b){
-    return a > b;
-}
+
+// Binary search approach
 
 void solve(int test){
     int n , target;
@@ -56,8 +55,6 @@ void solve(int test){
 int32_t main()
 {
      FastIO();
-
-     // cout << 14*14 << '\n';
 
      int T = 1;
    //  cin >> T;
