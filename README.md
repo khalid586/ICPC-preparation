@@ -15,6 +15,8 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |-|-|
 |[CF 1265](https://codeforces.com/contest/1265/problem/B)|🔴Pending|
 |[**CSES sum of three values](https://cses.fi/problemset/task/1641)|🔴Pending|
+|[CF 279B](https://codeforces.com/problemset/problem/279/B)|🔴Pending|
+|[Number of segments with big sum(CF EDU)]()|🟢Done|
 
 ## Tree Algorithms
 
