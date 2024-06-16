@@ -16,6 +16,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |Problem source|Revisit|Remarks|
 |--------------|-------|-------|
 |[CF 1914D](https://codeforces.com/contest/1914/problem/D)|🔴Solve using DP|Greedy Sorting|
+|[CSES Missing coin sum](https://cses.fi/problemset/task/2183)|🔴Pending|After sorting ,if a[i] is less than sum(0,i-1) than it is possible to form all numbers from a[0] to sum(a[i-1]) so the missing sum will be sum(a[i-1])+a[i]|
 
 ## Line Sweep technique
 
