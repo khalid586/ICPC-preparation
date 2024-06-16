@@ -43,7 +43,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |Problem source|Revisit|Remarks|
 |--------------|-------|-------|
 |[CF 1265](https://codeforces.com/contest/1265/problem/B)|🔴Pending|-|
-|[**CSES sum of three values](https://cses.fi/problemset/task/1641)|🔴Pending|-|
+|[**CSES sum of three values](https://cses.fi/problemset/task/1641)|🔴Pending|Use loop for the first value and two pointers for the rest two values|
 |[CF 279B](https://codeforces.com/problemset/problem/279/B)|🔴Pending|-|
 |[Segment with small sum (CF Edu)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A)|🟢Done|Iterate the array with two pointers|
 |[CSES Ferris wheel](https://cses.fi/problemset/task/1090)|🟢Done|Sorting , two pointer|
