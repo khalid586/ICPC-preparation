@@ -17,6 +17,12 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |--------------|-------|-------|
 |[CF 1914D](https://codeforces.com/contest/1914/problem/D)|🔴Solve using DP|Greedy Sorting|
 
+## Line Sweep technique
+
+|Problem source|Revisit|Remarks|
+|--------------|-------|-------|
+|[CSES Restaurant Customers](https://cses.fi/problemset/task/1619)|🟢Done|Line sweep (Used vector)|
+
 ## Two pointers
 |Problem source|Revisit|Remarks|
 |--------------|-------|-------|
