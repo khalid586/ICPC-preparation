@@ -24,7 +24,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[**CSES sum of three values](https://cses.fi/problemset/task/1641)|🔴Pending|-|
 |[CF 279B](https://codeforces.com/problemset/problem/279/B)|🔴Pending|-|
 |[Segment with small sum (CF Edu)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A)|🟢Done|Iterate the array with two pointers|
-
+|[CSES Ferris wheel](https://cses.fi/problemset/task/1090)|🟢Done|Sorting , two pointer|
 
 ## Binary Search
 |Problem source|Revisit|Remarks|
