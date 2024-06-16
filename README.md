@@ -10,6 +10,13 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[CF 1883C](https://codeforces.com/contest/1883/problem/C)   |🔴Pending|
 |[**CF 1855B](https://codeforces.com/problemset/problem/1855/B)|🔴Pending|
 
+
+## Greedy Algorithm
+
+|Problem source|Revisit|Remarks|
+|--------------|-------|-------|
+|[CF 1914D](https://codeforces.com/contest/1914/problem/D)|🔴Solve using DP|Greedy Sorting|
+
 ## Two pointers
 |Problem source|Revisit|Remarks|
 |--------------|-------|-------|
