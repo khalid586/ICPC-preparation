@@ -11,9 +11,15 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[**CF 1855B](https://codeforces.com/problemset/problem/1855/B)|🔴Pending|
 
 ## Recursion
+
+|Problem source|Revisit|Remarks|
+|--------------|-------|-------|
 |[Beecrowd 1029](https://judge.beecrowd.com/en/problems/view/1029)|🟢Done|Simple recursion|
 
 ## Basic data structures
+
+|Problem source|Revisit|Remarks|
+|--------------|-------|-------|
 |[Beecrowd 1068](https://judge.beecrowd.com/en/problems/view/1068)|🟢Done|stack|
 |[Beecrowd 1069](https://judge.beecrowd.com/en/problems/view/1069)|🟢Done|stack|
 |[Beecrowd 1566](https://judge.beecrowd.com/en/problems/view/1566)|🟢Done|counting sort|
