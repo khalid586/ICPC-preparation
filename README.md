@@ -1,5 +1,7 @@
 ## Warm up problems
+
 These problems are taken from [TLE eliminators cp sheet](https://www.tle-eliminators.com/cp-sheet)
+
 |Problem source|Revisit|
 |-|-|
 |[CF 1883B](https://codeforces.com/problemset/problem/1883/B)|🔴Pending|
@@ -40,6 +42,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[CSES Restaurant Customers](https://cses.fi/problemset/task/1619)|🟢Done|Line sweep (Used vector)|
 
 ## Two pointers
+
 |Problem source|Revisit|Remarks|
 |--------------|-------|-------|
 |[CF 1265](https://codeforces.com/contest/1265/problem/B)|🔴Pending|-|
@@ -49,6 +52,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[CSES Ferris wheel](https://cses.fi/problemset/task/1090)|🟢Done|Sorting , two pointer|
 
 ## Binary Search
+
 |Problem source|Revisit|Remarks|
 |--------------|-------|-------|
 |[Number of segments with big sum(CF EDU)]()|🟢Done|Prefix sum , Binary Seach (lower/upper bounds)|
