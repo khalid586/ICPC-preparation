@@ -12,6 +12,36 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[CF 1883C](https://codeforces.com/contest/1883/problem/C)     | 🔴Pending  |-|
 |[**CF 1855B](https://codeforces.com/problemset/problem/1855/B)| 🔴Pending  |-|
 
+## Binary Search
+
+|Problem source|Revisit|Remarks|
+|--------------|-------|-------|
+|[Number of segments with big sum(CF EDU)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D)|🟢Done|Prefix sum , Binary Seach (lower/upper bounds)|
+|[CSES factory machine](https://cses.fi/problemset/task/1620)| 🔴Revisit must |Binary Search|
+
+
+## Tree Algorithms
+
+| Problem source | Tag | Revisit |
+| --- | --- | --- |
+|[CSES Subordinates](https://cses.fi/problemset/task/1674) | 🔴Pending | DP on tree |
+
+## Sweep Line technique
+
+|Problem source|Revisit|Remarks|
+|--------------|-------|-------|
+|[CSES Restaurant Customers](https://cses.fi/problemset/task/1619)| 🟢Done |Line sweep (Used vector)|
+
+## Two pointers
+
+|Problem source|Revisit|Remarks|
+|--------------|-------|-------|
+|[CF 1265](https://codeforces.com/contest/1265/problem/B)| 🔴Pending |-|
+|[**CSES sum of three values](https://cses.fi/problemset/task/1641)| 🔴Pending |Use loop for the first value and two pointers for the rest two values|
+|[CF 279B](https://codeforces.com/problemset/problem/279/B)| 🔴Pending |-|
+|[Segment with small sum (CF Edu)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A)|🟢Done|Iterate the array with two pointers|
+|[CSES Ferris wheel](https://cses.fi/problemset/task/1090)| 🟢Done |Sorting , two pointer|
+
 ## Recursion
 
 |Problem source|Revisit|Remarks|
@@ -36,35 +66,6 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[CSES Collecting Numbers](https://cses.fi/problemset/task/2216)| 🟢Done |Greedy , check if the previous number has less index or not|
 |[CSES Tasks and Deadline](https://cses.fi/problemset/task/1630)| 🟢Done |Sort tasks according to duration in ascending order|
 
-## Sweep Line technique
-
-|Problem source|Revisit|Remarks|
-|--------------|-------|-------|
-|[CSES Restaurant Customers](https://cses.fi/problemset/task/1619)| 🟢Done |Line sweep (Used vector)|
-
-## Two pointers
-
-|Problem source|Revisit|Remarks|
-|--------------|-------|-------|
-|[CF 1265](https://codeforces.com/contest/1265/problem/B)| 🔴Pending |-|
-|[**CSES sum of three values](https://cses.fi/problemset/task/1641)| 🔴Pending |Use loop for the first value and two pointers for the rest two values|
-|[CF 279B](https://codeforces.com/problemset/problem/279/B)| 🔴Pending |-|
-|[Segment with small sum (CF Edu)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A)|🟢Done|Iterate the array with two pointers|
-|[CSES Ferris wheel](https://cses.fi/problemset/task/1090)| 🟢Done |Sorting , two pointer|
-
-## Binary Search
-
-|Problem source|Revisit|Remarks|
-|--------------|-------|-------|
-|[Number of segments with big sum(CF EDU)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D)|🟢Done|Prefix sum , Binary Seach (lower/upper bounds)|
-|[CSES factory machine](https://cses.fi/problemset/task/1620)| 🔴Revisit must |Binary Search|
-
-
-## Tree Algorithms
-
-| Problem source | Tag | Revisit |
-| --- | --- | --- |
-|[CSES Subordinates](https://cses.fi/problemset/task/1674) | 🔴Pending | DP on tree |
 
 
 <!-- 🟢 🔴-->
