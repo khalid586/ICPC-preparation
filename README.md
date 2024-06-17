@@ -17,7 +17,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |Problem source|Revisit|Remarks|
 |--------------|-------|-------|
 |[Number of segments with big sum(CF EDU)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D)|🟢Done|Prefix sum , Binary Seach (lower/upper bounds)|
-|[CSES factory machine](https://cses.fi/problemset/task/1620)| 🔴`Revisit must` |Binary Search|
+|[CSES factory machine](https://cses.fi/problemset/task/1620)| 🔴`Revisit` |Binary Search|
 
 
 ## Tree Algorithms
