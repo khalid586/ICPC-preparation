@@ -17,7 +17,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |Problem source|Revisit|Remarks|
 |--------------|-------|-------|
 |[Number of segments with big sum(CF EDU)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D)|🟢Done|Prefix sum , Binary Seach (lower/upper bounds)|
-|[🔴 CSES factory machine](https://cses.fi/problemset/task/1620)| 🔴`Revisit` |Binary Search|
+|[⭐CSES factory machine](https://cses.fi/problemset/task/1620)| 🔴`Revisit` |Binary Search|
 
 
 ## Tree Algorithms
@@ -61,7 +61,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 
 |Problem source|Revisit|Remarks|
 |--------------|-------|-------|
-|[🔴 CF 1914D](https://codeforces.com/contest/1914/problem/D)| 🔴`Using..DP` |Greedy Sorting|
+|[⭐CF 1914D](https://codeforces.com/contest/1914/problem/D)| 🔴`Using..DP` |Greedy Sorting|
 |[CSES Missing coin sum](https://cses.fi/problemset/task/2183)| 🔴Pending |After sorting ,if a[i] is less than sum(a[0],a[i-1]) than it is possible to form all numbers from a[0] to sum(a[i-1]) so the missing sum will be sum(a[i-1])+a[i]|
 |[CSES Collecting Numbers](https://cses.fi/problemset/task/2216)| 🟢Done |Greedy , check if the previous number has less index or not|
 |[CSES Tasks and Deadline](https://cses.fi/problemset/task/1630)| 🟢Done |Sort tasks according to duration in ascending order|
