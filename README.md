@@ -4,8 +4,8 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 
 |Problem source|Revisit|Remarks|
 |-|-|-|
-|[CF 1883B](https://codeforces.com/problemset/problem/1883/B)  | 🔴Pending  |-|
-|[CF 1904A](https://codeforces.com/problemset/problem/1904/A)  | 🔴Pending  |-|
+|[CF 1883B](https://codeforces.com/problemset/problem/1883/B)  | 🟢Done  | Can afford k+1 odd number of characters otherwise not possible to make a palindrome|
+|[CF 1904A](https://codeforces.com/problemset/problem/1904/A)  | 🟢Done  |First we have to findout from which places a king can be attacked then from those selected places we will again check if there is such position that also attacks the queen and those final places will be the answer|
 |[CF 1878C](https://codeforces.com/problemset/problem/1878/C)  | 🔴Pending  |-|
 |[CF 1875A](https://codeforces.com/problemset/problem/1875/A)  | 🔴Pending  |-|
 |[CF 1913B](https://codeforces.com/problemset/problem/1913/B)  | 🔴Pending  |-|
