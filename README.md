@@ -6,11 +6,11 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |-|-|-|
 |[CF 1883B](https://codeforces.com/problemset/problem/1883/B)  | 🟢Done  | Can afford k+1 odd number of characters otherwise not possible to make a palindrome|
 |[CF 1904A](https://codeforces.com/problemset/problem/1904/A)  | 🟢Done  |First we have to findout from which places a king can be attacked then from those selected places we will again check if there is such position that also attacks the queen and those final places will be the answer|
-|[CF 1878C](https://codeforces.com/problemset/problem/1878/C)  | 🔴Pending  |-|
-|[CF 1875A](https://codeforces.com/problemset/problem/1875/A)  | 🔴Pending  |-|
-|[CF 1913B](https://codeforces.com/problemset/problem/1913/B)  | 🔴Pending  |-|
-|[CF 1883C](https://codeforces.com/contest/1883/problem/C)     | 🔴Pending  |-|
-|[**CF 1855B](https://codeforces.com/problemset/problem/1855/B)| 🔴Pending  |-|
+|[CF 1878C](https://codeforces.com/problemset/problem/1878/C)  | 🟢Done  |If the target sum lies between minimum and maximum possible sum of k integers then it is "YES" otherwise "NO"|
+|[CF 1875A](https://codeforces.com/problemset/problem/1875/A)  | 🟢Done  |-|
+|[CF 1913B](https://codeforces.com/problemset/problem/1913/B)  | 🟢Done  |-|
+|[CF 1883C](https://codeforces.com/contest/1883/problem/C)     | 🟢Done  |Special check for k = 4|
+|[**CF 1855B](https://codeforces.com/problemset/problem/1855/B)| 🟢Done  | x consecutive numbers wil always have atleast one divisor from 1 to x|
 
 ## Binary Search
 
