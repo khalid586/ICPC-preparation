@@ -18,6 +18,9 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |--------------|-------|-------|
 |[Number of segments with big sum(CF EDU)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D)|🟢Done|Prefix sum , Binary Seach (lower/upper bounds)|
 |[⭐CSES factory machine](https://cses.fi/problemset/task/1620)| 🔴`Revisit` |Binary Search|
+|[Binary search(CF Edu)](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A)|🟢Done|Binary search|
+|[Closest to the left(CF Edu)](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B)|🟢Done|Binary search|
+|[Closest to the right(CF Edu)](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C)|🟢Done|Binary search|
 
 
 ## Tree Algorithms
