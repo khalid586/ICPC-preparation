@@ -73,7 +73,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[CSES Missing coin sum](https://cses.fi/problemset/task/2183)| 🔴Pending | `Observation` | After sorting ,if a[i] is less than sum(a[0],a[i-1]) than it is possible to form all numbers from a[0] to sum(a[i-1]) so the missing sum will be sum(a[i-1])+a[i]|
 |[CSES Collecting Numbers](https://cses.fi/problemset/task/2216)| 🟢Done | `Greedy` | check if the previous number has less index or not|
 |[CSES Tasks and Deadline](https://cses.fi/problemset/task/1630)| 🟢Done | `sorting` | Sort tasks according to duration in ascending order|
-
+|[⭐CF 1520E](https://codeforces.com/problemset/problem/1520/E)| 🟢Done |`Greedy` |Have to minimize the sum of non-starred cells|
 
 
 <!-- 🟢 🔴-->
