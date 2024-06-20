@@ -25,7 +25,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |[CF Edu - ropes](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B)|🟢Done|`Binary search`|increment will be 1e-6|
 |[CF Edu - very easy task](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C)|🟢Done|`Binary search`|second machine will start only after the first machine has printed a copy|
 |[CF 1985F ](https://codeforces.com/contest/1985/problem/F)|🟢Done|`Binary search`|Check overflow|
-
+|[⭐Children hoilday](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/D)|🟢Done|`Binary search`|[check](https://github.com/khalid586/Preparation/tree/main/Binary%20Search#children-holiday)|
 
 ## Tree Algorithms
 
