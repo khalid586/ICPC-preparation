@@ -27,7 +27,7 @@ void solve(int t){
       cin >> a[i] >> work[i] >> restTime[i];
    }
 
-   int low = 0 , high = 1e18 , ans = 0;
+   int low = 0 , high = 1e9 , ans = 0;
    vector<int> balloonsPerPerson;
 
    // first identify the time it takes to inflate the first balloon
@@ -44,7 +44,7 @@ void solve(int t){
          int oneCycle = (a[i] * work[i] + restTime[i]);
 
          int fullCycle = time / oneCycle;
-         int count = (min(fullCycle, 10000000000) * work[i]); // overflow caused WA
+         int count = fullCycle * work[i]; // overflow caused WA
 
         int remainingTime = time % oneCycle;
 
@@ -68,7 +68,6 @@ void solve(int t){
    int sz = balloonsPerPerson.size() , left = m;
 
    rep(i,0,sz){
-        // cout << balloonsPerPerson[i] << (i == sz - 1 ? "\n":" ");
       cout << min(balloonsPerPerson[i],left) << (i == sz - 1 ? "\n":" ");
       left -= balloonsPerPerson[i];
       left = max(left , 0LL);

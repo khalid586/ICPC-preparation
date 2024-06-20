@@ -25,11 +25,9 @@ void solve(int t){
       cin >> a[i] >> work[i] >> restTime[i];
    }
 
-   int low = 0 , high = 1e18 , ans = 0;
+   int low = 0 , high = 1e9 , ans = 0;
    vector<int> balloonsPerPerson;
 
-   // first identify the time it takes to inflate the first balloon
-   // after that we will divide the time(mid) by work[i] * a[i]
 
    while(low <= high){
       int mid = low + (high - low) / 2;
@@ -49,7 +47,7 @@ void solve(int t){
             continue;
          }   
 
-         int segment = min(1000000000LL,time / (a[i] * work[i] + restTime[i])); // overflow 
+         int segment = time / (a[i] * work[i] + restTime[i]); 
          count += segment * work[i];
 
          int remainingTime = time % (a[i] * work[i] + restTime[i]);
