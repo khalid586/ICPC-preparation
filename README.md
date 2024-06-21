@@ -60,7 +60,8 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 
 |Problem source|Revisit|Tags| Remarks|
 |--------------|-------|----|--------|
-|[CSES Dice Combinations](https://cses.fi/problemset/task/1633)| 🟢Done |`DP` `Iterative`|Iterate from the beginning and find out the solution|
+|[CSES Dice Combinations](https://cses.fi/problemset/task/1633)| 🟢Done |`DP`|Iterate from the beginning and find out the solution|
+|[CSES Minimizing Coins](https://cses.fi/problemset/task/1634) | 🟢Done |`DP`|-|
 
 ## Basic Data Structures & Algorithms
 
