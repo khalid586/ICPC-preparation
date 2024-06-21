@@ -60,6 +60,7 @@
 |[CF 279B](https://codeforces.com/problemset/problem/279/B)| `🔴Revisit` |`two pointer`|-|
 |[Segment with small sum (CF Edu)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A)|`🟢Done`|`two pointer`|Iterate the array with two pointers|
 |[CSES Ferris wheel](https://cses.fi/problemset/task/1090)| `🟢Done` |`Sorting` `two pointer`|-|
+|[CSES Playlist](https://cses.fi/problemset/task/1141)|`🔴Revisit`|`two pointer` `sliding window`|Use two pointers and keep track of the current segment|
 
 ## Recursion
 
