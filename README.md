@@ -30,9 +30,9 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 
 ## Tree Algorithms
 
-| Problem source | Revisit| Tag |
+| Problem source | Revisit| Tags |
 | --- | --- | --- |
-|[CSES Subordinates](https://cses.fi/problemset/task/1674) | 🔴Pending | DP on tree |
+|[CSES Subordinates](https://cses.fi/problemset/task/1674) | 🔴Pending | `DP` `DP on tree` |
 
 ## Sweep Line technique
 
@@ -62,15 +62,10 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |--------------|-------|----|--------|
 |[CSES Dice Combinations](https://cses.fi/problemset/task/1633)| 🟢Done |`DP` `Iterative`|Iterate from the beginning and find out the solution|
 
-## Basic data structures
+## Basic Data Structures & Algorithms
 
 |Problem source|Revisit|Tags| Remarks|
 |--------------|-------|----|--------|
-|[Beecrowd 1029](https://judge.beecrowd.com/en/problems/view/1029)| 🟢Done |`recursion`|-|
-
-
-|Problem source|Revisit|Tags|Remarks|
-|--------------|-------|----|-------|
 |[Beecrowd 1068](https://judge.beecrowd.com/en/problems/view/1068)| 🟢Done |`stack`|-|
 |[Beecrowd 1069](https://judge.beecrowd.com/en/problems/view/1069)| 🟢Done |`stack`|-|
 |[Beecrowd 1566](https://judge.beecrowd.com/en/problems/view/1566)| 🟢Done |`counting sort`|-|
