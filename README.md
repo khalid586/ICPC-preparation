@@ -11,8 +11,7 @@
 
 
 ## Warm up problems
-
-These problems are taken from [TLE eliminators cp sheet](https://www.tle-eliminators.com/cp-sheet)
+>These problems are taken from [TLE eliminators cp sheet](https://www.tle-eliminators.com/cp-sheet)
 
 |                    Problem source                            |   Status  | Tags |                  Remarks                                      |
 |--------------------------------------------------------------|-----------|------|---------------------------------------------------------------|
