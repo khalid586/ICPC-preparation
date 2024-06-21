@@ -56,13 +56,24 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |--------------|-------|----|--------|
 |[Beecrowd 1029](https://judge.beecrowd.com/en/problems/view/1029)| 🟢Done |`recursion`|-|
 
+## Dynamic Programming
+
+|Problem source|Revisit|Tags| Remarks|
+|--------------|-------|----|--------|
+|[CSES Dice Combinations](https://cses.fi/problemset/task/1633)| 🟢Done |`DP` `Iterative`|Iterate from the beginning and find out the solution|
+
 ## Basic data structures
 
-|Problem source|Revisit|Tags|
-|--------------|-------|-------|
-|[Beecrowd 1068](https://judge.beecrowd.com/en/problems/view/1068)| 🟢Done |`stack`|
-|[Beecrowd 1069](https://judge.beecrowd.com/en/problems/view/1069)| 🟢Done |`stack`|
-|[Beecrowd 1566](https://judge.beecrowd.com/en/problems/view/1566)| 🟢Done |`counting sort`|
+|Problem source|Revisit|Tags| Remarks|
+|--------------|-------|----|--------|
+|[Beecrowd 1029](https://judge.beecrowd.com/en/problems/view/1029)| 🟢Done |`recursion`|-|
+
+
+|Problem source|Revisit|Tags|Remarks|
+|--------------|-------|----|-------|
+|[Beecrowd 1068](https://judge.beecrowd.com/en/problems/view/1068)| 🟢Done |`stack`|-|
+|[Beecrowd 1069](https://judge.beecrowd.com/en/problems/view/1069)| 🟢Done |`stack`|-|
+|[Beecrowd 1566](https://judge.beecrowd.com/en/problems/view/1566)| 🟢Done |`counting sort`|-|
 
 
 ## Greedy Algorithm
