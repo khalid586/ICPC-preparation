@@ -6,11 +6,11 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |--------------------------------------------------------------|-----------|------|---------------------------------------------------------------|
 |[CF 1883B](https://codeforces.com/problemset/problem/1883/B)  | `🟢Done`  | `Observation`|Can afford k+1 odd number of characters otherwise not possible to make a palindrome|
 |[CF 1904A](https://codeforces.com/problemset/problem/1904/A)  | `🟢Done`  |`strings`|First we have to findout from which places a king can be attacked then from those selected places we will again check if there is such position that also attacks the queen and those final places will be the answer|
-|[CF 1878C](https://codeforces.com/problemset/problem/1878/C)  | `🟢Done`  |-|If the target sum lies between minimum and maximum possible sum of k integers then it is "YES" otherwise "NO"|
+|[CF 1878C](https://codeforces.com/problemset/problem/1878/C)  | `🟢Done`  |`Math`|If the target sum lies between minimum and maximum possible sum of k integers then it is "YES" otherwise "NO"|
 |[CF 1875A](https://codeforces.com/problemset/problem/1875/A)  | `🟢Done`  |-|-|
 |[CF 1913B](https://codeforces.com/problemset/problem/1913/B)  | `🟢Done`  |-|-|
-|[CF 1883C](https://codeforces.com/contest/1883/problem/C)     | `🟢Done`  |-|Special check for k = 4|
-|[**CF 1855B](https://codeforces.com/problemset/problem/1855/B)| `🟢Done`  |-| x consecutive numbers wil always have atleast one divisor from 1 to x|
+|[CF 1883C](https://codeforces.com/contest/1883/problem/C)     | `🟢Done`  | `Observation` |Special check for k = 4|
+|[**CF 1855B](https://codeforces.com/problemset/problem/1855/B)| `🟢Done`  | `Observation` | x consecutive numbers wil always have atleast one divisor from 1 to x|
 
 ## Binary Search
 > BSTA - Binary Search The Answer
@@ -77,7 +77,7 @@ These problems are taken from [TLE eliminators cp sheet](https://www.tle-elimina
 |Problem source|Status|Tags|Remarks|
 |--------------|-------|----|-------|
 |[⭐CF 1914D](https://codeforces.com/contest/1914/problem/D)| 🔴`Using..DP` |`Greedy` `Sorting`| - |
-|[CSES Missing coin sum](https://cses.fi/problemset/task/2183)| `🔴Revisit` | `Observation` | After sorting ,if a[i] is less than sum(a[0],a[i-1]) than it is possible to form all numbers from a[0] to sum(a[i-1]) so the missing sum will be sum(a[i-1])+a[i]|
+|[CSES Missing coin sum](https://cses.fi/problemset/task/2183)| `🟢Done` | `Observation` | After sorting ,if a[i] is less than sum(a[0],a[i-1]) than it is possible to form all numbers from a[0] to sum(a[i-1]) so the missing sum will be sum(a[i-1])+a[i]|
 |[CSES Collecting Numbers](https://cses.fi/problemset/task/2216)| `🟢Done` | `Greedy` | check if the previous number has less index or not|
 |[CSES Tasks and Deadline](https://cses.fi/problemset/task/1630)| `🟢Done` | `sorting` | Sort tasks according to duration in ascending order|
 |[⭐CF 1520E](https://codeforces.com/problemset/problem/1520/E)| `🟢Done` |`Greedy` |Have to minimize the sum of non-starred cells|
