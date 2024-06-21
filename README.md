@@ -72,9 +72,9 @@
 |Problem source|Status|Tags| Remarks|
 |--------------|-------|----|--------|
 |[CSES Dice Combinations](https://cses.fi/problemset/task/1633)| `🟢Done` |`DP`|Iterate from the beginning and find out the solution|
-|[CSES Minimizing Coins](https://cses.fi/problemset/task/1634) | `🟢Done` |`DP`|-|
-|[Lucas number (Atcoder)](https://atcoder.jp/contests/abc079/tasks/abc079_b) | `🟢Done` |`DP`|-|
-|[Frog 2 (Atcoder)](https://atcoder.jp/contests/dp/tasks/dp_b) | `🟢Done` |`DP`|-|
+|[CSES Minimizing Coins](https://cses.fi/problemset/task/1634) | `🟢Done` |`DP`|Iterative DP|
+|[Lucas number (Atcoder)](https://atcoder.jp/contests/abc079/tasks/abc079_b) | `🟢Done` |`DP`|Basic iterative DP|
+|[Frog 2 (Atcoder)](https://atcoder.jp/contests/dp/tasks/dp_b) | `🟢Done` |`DP`              |Basic iterative DP|
 
 ## Basic Data Structures & Algorithms
 
