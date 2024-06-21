@@ -7,7 +7,7 @@
 1. [Recursion](#recursion)
 1. [Dynamic Programming](#dynamic-programming)
 1. [Basic Data Structures](#basic-data-structures--algorithms)
-1. [Greedy Algorihms](#greedy-algorithm)
+1. [Greedy Algorithms](#greedy-algorithm)
 
 Many of the problems have been taken from [here](https://progvar.fun/problemsets)
 
@@ -31,13 +31,13 @@ Many of the problems have been taken from [here](https://progvar.fun/problemsets
 |--------------|-------|----|-------|
 |[Number of segments with big sum(CF EDU)](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D)|`🟢Done`|`Prefix sum`,`(lower/upper bounds)`|-|
 |[⭐CSES factory machine](https://cses.fi/problemset/task/1620)| 🔴`Revisit` |`Binary search`|-|
-|[Binary search(CF Edu)](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A)|`🟢Done`|`Binary search`|-|
-|[Closest to the left(CF Edu)](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B)|`🟢Done`|`Binary search`|-|
-|[Closest to the right(CF Edu)](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C)|`🟢Done`|`Binary search`|-|
+|[CF Edu - Binary search](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A)|`🟢Done`|`Binary search`|-|
+|[CF Edu - Closest to the left](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B)|`🟢Done`|`Binary search`|-|
+|[CF Edu - Closest to the right ](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C)|`🟢Done`|`Binary search`|-|
 |[CF Edu - packing rectangles](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A)|`🟢Done`|`Binary search` `BSTA`|Check overflow during multiplication|
 |[CF Edu - ropes](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B)|`🟢Done`|`Binary search`  `BSTA`|increment will be 1e-6|
 |[CF Edu - very easy task](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C)|`🟢Done`|`Binary search`  `BSTA`|second machine will start only after the first machine has printed a copy|
-|[CF 1985F ](https://codeforces.com/contest/1985/problem/F)|`🟢Done`|`Binary search`|Check overflow|
+|[CF 1985F ](https://codeforces.com/contest/1985/problem/F)|`🟢Done`|`Binary search` `BSTA`|Check overflow|
 |[⭐Children hoilday](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/D)|`🟢Done`|`Binary search`  `BSTA`|[check](https://github.com/khalid586/Preparation/tree/main/Binary%20Search#children-holiday)|
 
 ## Tree Algorithms
