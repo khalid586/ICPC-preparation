@@ -9,6 +9,7 @@
 1. [Basic Data Structures](#basic-data-structures--algorithms)
 1. [Greedy Algorihms](#greedy-algorithm)
 
+Many of the problems have been taken from [here](https://progvar.fun/problemsets)
 
 ## Warm up problems
 >These problems are taken from [TLE eliminators cp sheet](https://www.tle-eliminators.com/cp-sheet)
