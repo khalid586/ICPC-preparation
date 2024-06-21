@@ -1,3 +1,15 @@
+# Table of Contents
+1. [Warm up problems](#warm-up-problems)
+1. [Binary Search](#binary-search)
+1. [Tree algorithms](#tree-algorithms)
+1. [Sweep line technique](#sweep-line-technique)
+1. [Two pointers](#two-pointers)
+1. [Recursion](#recursion)
+1. [Dynamic Programming](#dynamic-programming)
+1. [Basic Data Structures](#basic-data-structures--algorithms)
+1. [Greedy Algorihms](#greedy-algorithm)
+
+
 ## Warm up problems
 
 These problems are taken from [TLE eliminators cp sheet](https://www.tle-eliminators.com/cp-sheet)
